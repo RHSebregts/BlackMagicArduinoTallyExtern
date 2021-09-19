@@ -1,5 +1,5 @@
 /* Blackmagic Design Multiview Tally generator.
- Made for PolyCast Productions
+ Made for PolyCast Productions by Robbert-Jan Sebregts
  V 0.3 - 07-03-2019
 
  For use with the Blackmagic 3G‑SDI Shield for Arduino.
